@@ -4,6 +4,6 @@ credits to:
 
 Shadowofcat (me) and dragonite for the mod development  
 
-rekku for translating all the dialogue and text  
+rekku for translating all the game's dialogue and text  
 
 and sinai dev for his universeLib library which the mod uses
