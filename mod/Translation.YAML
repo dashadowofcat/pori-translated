@@ -78,7 +78,7 @@ inkwaterMarshLupoThanksTextMessageProvider:
 
 inkwaterMarshLupoWelcomeTextMessageProvider:
 - That is a trip! Add a #water chair!#
-- How? Which tank is interesting? I do not know when the project will come.
+- Which tank is interesting?\nI do not know when the project will come.
 - In other words, nothing is #good.#
 
 inkwaterMarshLupoFirstEncounterTextMessageProvider:
@@ -263,7 +263,7 @@ wellspringGladesTextMessageProvider:
 - USE
 
 willowsEndTextMessageProvider:
-- REMEDY
+- PURE
 
 willowsEndLupoFlavorATextMessageProvider:
 - It's #gone#
@@ -461,13 +461,13 @@ howlsOriginLupoThanksTextMessageProvider:
 
 howlsOriginLupoWelcomeTextMessageProvider:
 - Happiness to the hill!
-- How? It's hard to work in this world? #Both work!#
-- What is the reason? How? Is the system large? Corruption? Yes, comics!
+- It's hard to work in this world? #Both work!#
+- What is the reason?\nIs the system large?\nCorruption?\nYes, comics!
 
 howlsOriginFirstEncounterTextMessageProvider:
 - That's a trip! I a good #copy!#
-- How? It's hard to work in this world? Both work!
-- What is the reason? How? Is the system large? Corruption? Yes, #comics!#
+- It's hard to work in this world? #Both work!#
+- What is the reason?\nIs the system large?\nCorruption?\nYes, comics!
 
 noOtherTeleportersActivatedTextMessageProvider:
 - Is there another #business?#
@@ -1049,7 +1049,7 @@ wellspringEscapeReplayNameTextMessageProvider:
 - #Take (oath)#
 
 willowCeremonyReplayNameTextMessageProvider:
-- #Remedy#
+- #Pure#
 
 backToMainMenuTextMessageProvider:
 - Main title
@@ -3731,7 +3731,7 @@ inventoryResourceSpiritLightTextMessageProvider:
 - The seller changes new technology.
 
 loadBackupQuestionTextMessageProvider:
-- How? What do you think? Return?
+- What do you think? Return?
 
 returnToMainMenuQuestionTextMessageProvider:
 - Am I going to the main menu?
@@ -4172,7 +4172,7 @@ firstRacePedestalHintTextMessageProvider:
 
 baursReachTokkSeesShriekRetalkATextMessageProvider: 
 - This is a goal but I think it is #uneven#
-- How? Is this good for lines?
+- Is this good for lines?
 - New - new ... Maybe - #how are you?#
 
 baursReachTokkSeesShriekRetalkBTextMessageProvider:
@@ -4324,7 +4324,7 @@ tokkLumaPoolsRetalkTextMessageProvider:
 
 tokkLumaPoolsTextMessageProvider:
 - Fish ... that. Winter and peace!
-- How? Can we destroy it again? Let me know.
+- Can we destroy it again? Let me know.
 - When my child has to understand
 
 tokkLumaPoolsWaterLoweredRetalkTextMessageProvider:
@@ -4337,12 +4337,12 @@ tokkLumaPoolsWaterLoweredTextMessageProvider:
 - Water here! NN: #What do you get?#
 
 tokkTradeSequenceGetItemTextMessageProvider:
-- How? What is the magazine here? ... Success!
+- What is the magazine here? ... Success!
 - Next: 10 track tracks!
 - Click the #video# to change, I ask yourself #to work in a big bag.#
 
 inkwaterWellTokkFirstEncounterRetalkTextMessageProvider:
-- How? Do you know how to read the brand?
+- Do you know how to read the brand?
 
 inkwaterWellTokkFirstEncounterTextMessageProvider:
 - Hi, I have time.\nDelete the #stone#
@@ -4628,7 +4628,7 @@ opherHubIntroRetalkTextMessageProvider:
 
 opherHubIntroTextMessageProvider:
 - See yourself!
-- How? What do you want ... or want to buy?
+- What do you want ... or want to buy?
 - I'm not good, but Rev.
 - If you want each other
 
@@ -4660,7 +4660,7 @@ opherSpringIntroductionB_farewellBTextMessageProvider:
 - )))))
 
 opherSpringIntroductionB_offerAfterPurchaseTextMessageProvider:
-- How? Is that a better technology?
+- Is that a better technology?
 
 opherSpringIntroductionB_offerTextMessageProvider:
 - Can you use #technology?#\nFirst, you can send lessons and #choose the disease.#
@@ -4670,7 +4670,7 @@ howToSwingJumpTextMessageProvider:
 
 opherSpringIntroductionB_postShriekTextMessageProvider:
 - What is the #front?#
-- How? What do you want to spend?
+- What do you want to spend?
 - I don't know what you think is dangerous ... We need it.
 - Fortunately, this is just a #teacher!#
 
@@ -4730,18 +4730,18 @@ lupoQuestCompletedTextMessageProvider:
 
 lupoQuestExploredATextMessageProvider:
 - Fly you #early?#
-- How? Do you forget to buy? It may be the price! Very positive! Base
+- Do you forget to buy? It may be the price! Very positive! Base
 - The World Cup is unknown everywhere. You know you can't decide all your plans.
 
 lupoQuestExploredBTextMessageProvider:
 - But! #Operate#
-- How? Do you breeding? Animals are the reason! What!
+- Do you breeding? Animals are the reason! What!
 - The card will always be the same because there is no way. When will everything work?
 
 lupoQuestStartRetalkTextMessageProvider:
-- How? Do you work on your computer? Each source of view plays an unlimited role everywhere!
+- Do you work on your computer? Each source of view plays an unlimited role everywhere!
 - So I want to play a good role in my memory?
-- How? Do you want to call?
+- Do you want to call?
 
 lupoQuestStartTextMessageProvider:
 - Success! In the middle of the house!
@@ -5007,7 +5007,7 @@ gromDesertRumorTextMessageProvider:
 
 gromSearchForGrolATextMessageProvider:
 - What are you doing now? , Because I have it! Advice
-- How? Whom you meet
+- Whom you meet
 - Talk about the whole course! The #seal# is over!
 
 gromSearchForGrolBTextMessageProvider:
@@ -5179,7 +5179,7 @@ mokiFatherFirstEncounterTextMessageProvider:
 - Can #black# help me?
 
 mokiFatherFoundFamilyTextMessageProvider:
-- Warm! How? Do you have a #soft tree?#
+- Warm! Do you have a #soft tree?#
 - ... #Colorful song?# But that's the price! Tiwn ...
 - I have to go home ...
 
@@ -5299,7 +5299,7 @@ racerMokiRacePlaceholderTextMessageProvider:
 
 racerMokiTradeGotItemTextMessageProvider:
 - Success! There is a #hat#
-- How? Can you do it? One day is #great# for me.
+- Can you do it? One day is #great# for me.
 - Occasionally set onions in the air in #the dark#
 - Start with the shadow today.
 
@@ -5321,7 +5321,7 @@ mokiBaurRumorRetalkTextMessageProvider:
 mokiLagoonRumorCompleteTextMessageProvider:
 - I think the best nail system is good.
 - The most suitable number of positions
-- How? Good work with fire? You know.
+- Good work with fire? You know.
 
 mokiLagoonRumorIntroTextMessageProvider:
 - When: #balls# and #beautiful water#
@@ -5338,7 +5338,7 @@ mokiMouldwoodRumorCompleteTextMessageProvider:
 - Evaporate
 
 mokiMouldwoodRumorIntroTextMessageProvider:
-- How? Time to leave? I haven't seen it yet but I'm worried about what I will do
+- Time to leave? I haven't seen it yet but I'm worried about what I will do
 - I think a #profit# -profit.
 - The name must be #eligible# for the #audience.#
 
@@ -5572,7 +5572,7 @@ baurPostShriekBackstoryTextMessageProvider:
 baurPostThawRetalkTextMessageProvider:
 - I set #goals and weapons.#
 - Winter is small but his #memory# is warm and #married.#
-- How? Can I fight with black light?
+- Can I fight with black light?
 - Everything out in darkness.
 
 baurPostThawTextMessageProvider:
@@ -5638,7 +5638,7 @@ adventurerMokiFirstEncounterTextMessageProvider:
 
 adventurerMokiHubTextMessageProvider:
 - I can't do this anymore.
-- How? Are you ignoring here?
+- Are you ignoring here?
 - Good thoughts
 
 adventurerMokiTradeItemTextMessageProvider:
@@ -5660,7 +5660,7 @@ howToLeashTextMessageProvider:
 - The goal [WASD] is to [Grapple] #prevent balance!#
 
 opherRescuesOriFromStinkSpiritTextMessageProvider:
-- How? Is that a fun life?
+- Is that a fun life?
 - There is no doubt about that! More than me
 
 narratorSilentWoodsATextMessageProvider:
@@ -5718,7 +5718,7 @@ lagoonMokiFirstEncounterFoundKwolokTextMessageProvider:
 - That's the #side# but I know
 - Stand? #Stand?#
 - ... sorry, but I don't know.
-- How? Can you pay?
+- How can you pay?
 
 lagoonMokiFirstEncounterKwolokDeadTextMessageProvider:
 - You know? Everything is alright? Custery ...
@@ -5749,7 +5749,7 @@ lagoonMokiSecondEncounterFoundKwolokTextMessageProvider:
 - This is #Lake Crown.#
 - Stand? #Stand?#
 - ... sorry, but I don't know.
-- How? Can you pay?
+- How can you pay?
 
 lagoonMokiSecondEncounterKwolokDeadTextMessageProvider:
 - Q ... ultimately? #What is three?# Advice
@@ -5789,7 +5789,7 @@ kwolokInTheLagoonTextMessageProvider:
 - I will win! I'm talking about investigating flat.
 
 lumaPoolsMokiKwolokWarningTextMessageProvider:
-- How? What is a #hat?#
+- What is a #hat?#
 - More than me;
 
 lumaPoolsWispSpottedTextMessageProvider:
@@ -5824,7 +5824,7 @@ moraInteractionHintTextMessageProvider:
 - Click [Interact] to press!
 
 moraRetalkATextMessageProvider:
-- How? In your case? First
+- In your case? First
 - If you don't have a problem, I fly.
 - Cause
 - Instead of measuring the color of profit.
@@ -5918,7 +5918,7 @@ minerSecondEncounterTextMessageProvider:
 minerThirdEncounterTextMessageProvider:
 - Come, #thank you!#
 - Go to the old bridge and help the shield
-- How? Are we returned to our country?
+- How are we returned to our country?
 
 minerTradeItemTextMessageProvider:
 - Where do you see where your #sister's upgrade# is?
@@ -6005,7 +6005,7 @@ willowsEndWillowGreetingATextMessageProvider:
 
 willowsEndWillowGreetingGTextMessageProvider:
 - Would you rather: [Ability1] #kill Ku further# or [Ability2] #kill yourself#
-- Now stop #whining# and be a #fucking tree#
+- Now stop #whining# and be a #fucking tree#[SpiritLight]
 
 narratorEpilogueCTextMessageProvider:
 - Others decide in darkness
