@@ -14,7 +14,7 @@ warning: some translations might be nsfw
 
 ## credits to
 
-- Shadowofcat (me) and ascdragonite for the mod development  
+- Shadowofcat and ascdragonite for the mod development  
 
 - Rekku484 for translating all the game's dialogue and text  
 
