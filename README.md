@@ -12,7 +12,11 @@ This mod poorly translates **Ori and the Will of the Wisps**. The texts and dial
 2. Open the game first, let it load into the main menu of Ori WOTW
 3. Close the game afterwards, the folders created by **MelonLoader** should be generated
 4. Move `UniverseLib.IL2CPP.Interop.ML.dll` from the requirements folder into the **UserLibs** folder in your installation
+   
+   **UserLibs** folder can be found on the Games Folder of Ori WOTW
 5. Move both `DialogueCore.dll` and `Translations.YAML` into the **Mod** folder
+   
+   **Mods** folder can be found on the Games Folder of Ori WOTW
 6. Open the game again, everything should be up and running!
 
 ## Credits to:
