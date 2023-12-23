@@ -2,23 +2,22 @@
 ## Pori-Translated
 A mod that translates ori and the will of the wisps's text and dialogue into poorly translated versions
 
-warning: some translations might be nsfw
+**Warning:** some translations might be NSFW
 
-## Instructions
-- download melon loader from https://melonwiki.xyz/#/
-- open and close the game once to generate the melon loader folders
-- move `UniverseLib.IL2CPP.Interop.ML.dll` from the requirements folder into the UserLibs folder in your installation
-- move both `DialogueCore.dll` and `Translations.YAML` into the mod folder
-- open the game, everything should be up and running!
+## Instructions:
+1. Download **MelonLoader** from https://melonwiki.xyz/#/
+2. Open the game first, let it load into the main menu of Ori WOTW
+3. Close the game afterwards, the folders created by **MelonLoader** should be generated
+4. Move `UniverseLib.IL2CPP.Interop.ML.dll` from the requirements folder into the **UserLibs** folder in your installation
+5. Move both `DialogueCore.dll` and `Translations.YAML` into the **Mod** folder
+6. Open the game again, everything should be up and running!
 
+Have fun playing!
 
-## credits to
+## Credits to:
 
 - Shadowofcat and ascdragonite for the mod development  
 
 - Rekku484 for translating all the game's dialogue and text  
 
 - and sinai dev for his universeLib library which the mod uses
-
-
- have fun!
