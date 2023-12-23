@@ -12,8 +12,6 @@ A mod that translates ori and the will of the wisps's text and dialogue into poo
 5. Move both `DialogueCore.dll` and `Translations.YAML` into the **Mod** folder
 6. Open the game again, everything should be up and running!
 
-Have fun playing!
-
 ## Credits to:
 
 - Shadowofcat and ascdragonite for the mod development  
@@ -21,3 +19,6 @@ Have fun playing!
 - Rekku484 for translating all the game's dialogue and text  
 
 - and sinai dev for his universeLib library which the mod uses
+
+
+Have fun playing!
