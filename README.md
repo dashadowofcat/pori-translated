@@ -5,7 +5,7 @@ This mod poorly translates **Ori and the Will of the Wisps**. The texts and dial
 
 **Warning:** Please be aware that some of the texts/dialogues the translator put out may contain NSFW.
 
-## [Download the Mod here!](https://github.com/dashadowofcat/pori-translated/releases/tag/v1.0.0)
+## [Download the Mod files here!](https://github.com/dashadowofcat/pori-translated/releases/tag/v1.0.0)
 
 ## Instructions:
 1. Download **MelonLoader** from https://melonwiki.xyz/#/
