@@ -1,8 +1,9 @@
 ![alt text](https://github.com/ascdragonite/Pori-Translated/blob/main/source%20code/DialogueMod/bin/Thumbnail.png)
 ## Pori-Translated
-A mod that translates ori and the will of the wisps's text and dialogue into poorly translated versions
 
-**Warning:** some translations might be NSFW
+This mod poorly translated **Ori and the Will of the Wisps**. The texts and dialogues are translated through 64 languages and translating back to English.
+
+**Warning:** Please be aware that some of the texts/dialogues the translator put out may contain NSFW.
 
 ## Instructions:
 1. Download **MelonLoader** from https://melonwiki.xyz/#/
@@ -14,9 +15,9 @@ A mod that translates ori and the will of the wisps's text and dialogue into poo
 
 ## Credits to:
 
-- Shadowofcat and ascdragonite for the mod development  
+- **Shadowofcat** and **ascdragonite** for the mod development  
 
-- Rekku484 for translating all the game's dialogue and text  
+- **Rekku484** for translating all the game's dialogue and text  
 
 - and sinai dev for his universeLib library which the mod uses
 
