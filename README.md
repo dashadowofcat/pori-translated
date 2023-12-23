@@ -16,7 +16,7 @@ This mod poorly translates **Ori and the Will of the Wisps**. The texts and dial
    **UserLibs** folder can be found on the Games Folder of Ori WOTW
 5. Move both `DialogueCore.dll` and `Translations.YAML` into the **Mod** folder
    
-   **Mods** folder can be found on the Games Folder of Ori WOTW
+   **Mods** folder can also be found on the Games Folder of Ori WOTW
 6. Open the game again, everything should be up and running!
 
 ## Credits to:
