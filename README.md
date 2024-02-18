@@ -26,6 +26,6 @@ This mod poorly translates **Ori and the Will of the Wisps**. The texts and dial
 - **Rekku484** for translating all the game's dialogue and text  
 
 - and sinai dev for his universeLib library which the mod uses
-
+ 
 
 Have fun playing!
